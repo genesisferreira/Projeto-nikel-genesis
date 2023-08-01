@@ -28,7 +28,7 @@ header {
     padding: 20px 0px 0px 0px;
 }
 
-.button-default{
+.button-default-lançamentos{
     border-radius: 10px;
     background-color: #4e0070;
     color: #ffffff;
@@ -58,4 +58,12 @@ header {
     border: 2px solid #4c79d3;
     background-color: #ffffff;
     color: #4c79d3;
+}
+
+.logout {
+    min-width: 5rem !important;
+}
+
+.menu-transactions {
+    margin-right: 20px;
 }
